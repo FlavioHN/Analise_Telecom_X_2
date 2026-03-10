@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>📊 Previsão de evasão na Telecom X: KNN e Árvore de Decisão</h1>
-  <h2 align="center">🎓 Projeto Desafio - Formação em Data Science — Alura e Oracle Next Education (ONE)</h2>
+  <h1>📊 Telecom X: Previsão de Evasão de Clientes</h1>
+  <h2 align="center">🎓 Projeto Desafio Parte 2 — Alura e Oracle Next Education (ONE)</h2>
+  <h2 align="center">   Formação em Data Scienc</h2>h2
   <p>
     <em>Análise comparativa de modelos de Machine Learning para identificar e avaliar a evasão de clientes.</em>
   </p>
