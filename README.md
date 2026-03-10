@@ -1,7 +1,7 @@
 <div align="center">
   <h1>📊 Telecom X: Previsão de Evasão de Clientes</h1>
   <h2 align="center">🎓 Projeto Desafio Parte 2 — Alura e Oracle Next Education (ONE)</h2>
-  <h2 align="center">   Formação em Data Scienc</h2>h2
+  <h2 align="center">   Formação em Data Scienc</h2>
   <p>
     <em>Análise comparativa de modelos de Machine Learning para identificar e avaliar a evasão de clientes.</em>
   </p>
@@ -117,13 +117,11 @@ Desafio da segunda etapa do Challenge Telecom X, focada em transformar dados bru
 
 <h2>🚀 Como Executar</h2>
 <p>Siga os passos abaixo para testar os modelos localmente na sua máquina:</p>
-
-```bash
+<p>
 1. Clone este repositório
-2. Instale as dependências: pip install -r requirements.txt
-3. Execute o arquivo 'telecom_x2.ipynb'
-
-``` 
+2. Instale as dependências: <code>pip install -r requirements.txt</code>
+3. Execute o arquivo <code>'telecom_x2.ipynb'</code>
+ </p>
 <p>Após a instalação, basta abrir o arquivo <code>.ipynb</code> no Jupyter Notebook ou VS Code e executar as células sequencialmente.</p>
 
 <div align="center">
