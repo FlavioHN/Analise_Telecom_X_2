@@ -119,7 +119,9 @@ Desafio da segunda etapa do Challenge Telecom X, focada em transformar dados bru
 <p>Siga os passos abaixo para testar os modelos localmente na sua máquina:</p>
 <p>
 1. Clone este repositório
+<br>
 2. Instale as dependências: <code>pip install -r requirements.txt</code>
+<br>
 3. Execute o arquivo <code>'telecom_x2.ipynb'</code>
  </p>
 <p>Após a instalação, basta abrir o arquivo <code>.ipynb</code> no Jupyter Notebook ou VS Code e executar as células sequencialmente.</p>
