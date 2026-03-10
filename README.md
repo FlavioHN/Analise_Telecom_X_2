@@ -128,5 +128,4 @@ Desafio da segunda etapa do Challenge Telecom X, focada em transformar dados bru
 <div align="center">
 <p>Desenvolvido por:</p>
 <a href="https://github.com/FlavioHN">
-        <br>
         <sub><b>Flávio Lima</b></sub>
